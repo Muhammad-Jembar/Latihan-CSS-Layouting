@@ -1,0 +1,18 @@
+.satu img {
+  height: 400px;
+  width: 400px;
+  margin-left: 200px;
+  margin-top: 40px;
+  border-radius: 10px;
+}
+
+.dua p {
+  margin-top: -240px;
+  margin-bottom: 260px;
+  margin-left: 800px;
+}
+h2 {
+  margin-top: 200px;
+  margin-left: 880px;
+  margin-bottom: -150px;
+}

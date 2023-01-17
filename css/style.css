@@ -1,0 +1,44 @@
+body {
+  height: 300px;
+  padding-top: 50px;
+}
+
+.header {
+  width: 600px;
+  height: 100px;
+  margin-top: auto;
+  background-color: yellow;
+  margin-left: 400px;
+}
+
+.menu {
+  width: 600px;
+  height: 50px;
+  margin-top: 50px auto;
+  background-color: rgb(224, 20, 20);
+  margin-left: 400px;
+}
+.content {
+  width: 400px;
+  height: 100%;
+  background-color: blue;
+  margin-left: 400px;
+}
+.content li {
+  text-align: center;
+  color: #ddd;
+}
+.sidebar {
+  width: 200px;
+  height: 300px;
+  background-color: orange;
+  margin-left: 800px;
+  margin-top: -300px;
+}
+.footer {
+  width: 600px;
+  height: 100px;
+  margin-top: auto;
+  background-color: green;
+  margin-left: 400px;
+}

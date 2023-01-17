@@ -1,0 +1,30 @@
+body {
+  height: 300px;
+  padding-top: 50px;
+  min-height: 2000px;
+}
+.menu {
+  height: 40px;
+  width: 600px;
+  background-color: red;
+  margin-left: 400px;
+}
+.header {
+  height: 200px;
+  width: 600px;
+  background-color: brown;
+  margin-left: 400px;
+}
+.content {
+  height: 600px;
+  width: 600px;
+  background-color: blue;
+  margin-left: 400px;
+}
+
+.footer {
+  height: 60px;
+  width: 600px;
+  background-color: yellow;
+  margin-left: 400px;
+}
